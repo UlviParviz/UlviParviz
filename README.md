@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, JavaScript, HTML/CSS/SCSS, Jqeury, Bootstrap, ExpressJS, MongoDB**
 
-- 📫 How to reach me **ulvispaethe@gmail.com**
+- 📫 How to reach me **ulviparviz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
