@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ulviparvizoghlu&label=Profile%20views&color=0e75b6&style=flat" alt="ulviparvizoghlu" /> </p>
 
-- 🌱 I’m currently learning **Typescript,Next.js**
+- 🌱 I’m currently learning **Nest.js**
 
 - 💬 Ask me about **React, JavaScript, HTML/CSS/SCSS, Jqeury, Bootstrap, ExpressJS, MongoDB**
 
