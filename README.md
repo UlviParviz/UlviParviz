@@ -21,4 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=UlviParviz&show_icons=true&locale=en&layout=compact" alt="UlviParviz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ulviparviz&show_icons=true&locale=en" alt="ulviparviz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=UlviParviz&show_icons=true&locale=en" alt="UlviParviz" /></p>
